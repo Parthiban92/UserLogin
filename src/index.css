@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-signin {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,0.1);  
+
+ }
+
+ .btn_logout{
+ 	position: absolute;
+ 	right: 0px !important;
+ 	top: 0px;
+ }
+
+ .table_content{
+ 	text-align: center;
+ }
+ .error_validation{
+ 	background-color: #ffb8c9;
+ 	font-size: 15px;
+ 	max-width: 380px;
+ 	padding: 5px 5px 5px;
+ }
